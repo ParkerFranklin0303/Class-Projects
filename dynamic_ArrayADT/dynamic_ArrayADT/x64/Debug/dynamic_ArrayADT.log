@@ -1,0 +1,3 @@
+﻿  dArray.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Owner\source\repos\dynamic_ArrayADT\x64\Debug\dynamic_ArrayADT.exe : fatal error LNK1120: 1 unresolved externals
